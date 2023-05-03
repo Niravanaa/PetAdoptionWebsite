@@ -1,0 +1,15 @@
+1:niravp0703:dog:Labrador Retriever:2-5 years:male:no:yes:yes:Enjoys playing fetch and loves belly rubs.:Amy:amyjones12@gmail.com:labrador-retriever.jpeg
+2:josh123:cat:Siamese:1-2 years:female:no:no:yes:Likes to snuggle and play with toys.:Mark:marksmith@gmail.com:siamese.jpg
+3:niravp0703:dog:German Shepherd:5+ years:female:no:no:yes:Loves to go on long walks and play tug-of-war.:Samantha:samantha22@gmail.com:german-shepherd.jpeg
+4:josh123:cat:Persian:0-1 year:male:yes:no:no:Very curious and loves to play with strings.:Ava:avawilliams@gmail.com:persian.jpeg
+5:niravp0703:dog:Golden Retriever:2-5 years:male:yes:yes:yes:Loves to swim and chase tennis balls.:John:johnpetlover@gmail.com:golden-retriever.jpg
+6:josh123:cat:Bengal:1-2 years:female:no:yes:yes:Very playful and loves to climb.:Lily:lilyjackson@gmail.com:bengal-cat.jpeg
+7:niravp0703:dog:Poodle:5+ years:female:no:no:no:Very calm and loves to cuddle on the couch.:Mia:miadavis@gmail.com:poodle.jpeg
+8:josh123:cat:Maine Coon:2-5 years:male:yes:no:yes:Enjoys long naps and bird watching.:Oliver:oliverbrown@gmail.com:maine-coon.jpeg
+9:niravp0703:dog:Shih Tzu:0-1 year:female:no:no:yes:Very friendly and loves to play with children.:Emma:emmaford@gmail.com:shih-tzu.jpeg
+10:josh123:cat:Russian Blue:5+ years:male:no:yes:yes:Very affectionate and loves to be brushed.:Sophia:sophiawilson@gmail.com:russian-blue.jpeg
+11:niravp0703:dog:Siberian Husky:1-2 years:male:yes:yes:yes:Very active and loves to run.:Benjamin:benjaminpetlover@gmail.com:siberian-husky.jpg
+12:josh123:cat:Scottish Fold:2-5 years:female:no:no:yes:Enjoys playing with toys and taking naps in cozy spots.:Chloe:chloepetlover@gmail.com:scottish-fold.jpeg
+13:niravp0703:dog:Bulldog:5+ years:male:no:yes:yes:Very friendly and loves to snore.:Noah:noahpetlover@gmail.com:bulldog.jpeg
+14:josh123:cat:Sphynx:0-1 year:female:yes:no:no:Loves to cuddle and is very curious.:Ella:ellajones@gmail.com:sphynx.jpeg
+15:niravp0703:dog:Chihuahua:1-2 years:male:yes:yes:yes:Very loyal and loves to be carried around.:Abigail:abigailbrown@gmail.com:chihuahua.jpg
