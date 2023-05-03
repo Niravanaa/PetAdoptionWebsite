@@ -1,6 +1,8 @@
 # Pet Adoption Website
 This website was created as part of an assignment for the Web Programming [SOEN287] course at Concordia University. It was built using PHP, CSS, HTML, and Bootstrap 5. The goal of this website was to create a responsive platform that allows pet owners to find or give away pets in a simple and user-friendly manner.
 
+The website can be accessed [here](https://users.encs.concordia.ca/~pa_nir/Q4_project/)
+
 ## Table of Contents
 * [Purpose](#purpose)
 * [How to Use](#how-to-use)
